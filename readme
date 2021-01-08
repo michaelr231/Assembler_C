@@ -1,0 +1,3 @@
+assembler project:
+for running the project after makeing a makefile
+write in the command line: ./assembler filename
